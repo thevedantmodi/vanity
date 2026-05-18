@@ -1,0 +1,4 @@
+.build/
+VanityCamera.app/
+*.o
+*.d
